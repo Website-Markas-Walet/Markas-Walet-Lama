@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Slider &#8211; PT LENTERA ALAM NUSANTARA</title>
+	<atom:link href="/category/slider/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Sarang Walet Berkualitas &#38; Termurah Seluruh Indonesia!</description>
+	<lastBuildDate>Fri, 28 Dec 2018 08:21:50 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2018/12/cropped-logo-markas-walet-32x32.png</url>
+	<title>Slider &#8211; PT LENTERA ALAM NUSANTARA</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Agen Sarang Walet</title>
+		<link>/agen-sarang-walet/</link>
+		
+		<dc:creator><![CDATA[Syamsul Alam]]></dc:creator>
+		<pubDate>Sat, 05 Aug 2017 12:18:04 +0000</pubDate>
+				<category><![CDATA[Slider]]></category>
+		<guid isPermaLink="false">https://demo.themefreesia.com/idyllic/?p=1834</guid>
+
+					<description><![CDATA[Menyediakan sarang walet putih, merah, kuning, dlsb.]]></description>
+										<content:encoded><![CDATA[<p>Menyediakan sarang walet putih, merah, kuning, dlsb.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Jual Sarang Walet</title>
+		<link>/jual-sarang-walet/</link>
+		
+		<dc:creator><![CDATA[Syamsul Alam]]></dc:creator>
+		<pubDate>Sat, 05 Aug 2017 12:17:18 +0000</pubDate>
+				<category><![CDATA[Slider]]></category>
+		<guid isPermaLink="false">https://demo.themefreesia.com/idyllic/?p=1832</guid>
+
+					<description><![CDATA[Sarang walet mangkuk, patahan, sudut, kaki, serabut, dlsb.]]></description>
+										<content:encoded><![CDATA[<p>Sarang walet mangkuk, patahan, sudut, kaki, serabut, dlsb.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Eksportir Sarang Walet</title>
+		<link>/eksportir-sarang-walet/</link>
+		
+		<dc:creator><![CDATA[Syamsul Alam]]></dc:creator>
+		<pubDate>Sat, 05 Aug 2017 12:16:29 +0000</pubDate>
+				<category><![CDATA[Slider]]></category>
+		<guid isPermaLink="false">https://demo.themefreesia.com/idyllic/?p=1785</guid>
+
+					<description><![CDATA[Jual sarang walet ragam ukuran: SM, S, SS, SSS, SSSSS, dlsb.]]></description>
+										<content:encoded><![CDATA[<p>Jual sarang walet ragam ukuran: SM, S, SS, SSS, SSSSS, dlsb.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

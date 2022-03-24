@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Ragam Warna &#8211; PT LENTERA ALAM NUSANTARA</title>
+	<atom:link href="/tag/ragam-warna/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Sarang Walet Berkualitas &#38; Termurah Seluruh Indonesia!</description>
+	<lastBuildDate>Fri, 28 Dec 2018 08:21:50 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2018/12/cropped-logo-markas-walet-32x32.png</url>
+	<title>Ragam Warna &#8211; PT LENTERA ALAM NUSANTARA</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Sarang Walet Kuning</title>
+		<link>/portfolio-sarang-walet-kuning/</link>
+		
+		<dc:creator><![CDATA[Syamsul Alam]]></dc:creator>
+		<pubDate>Sat, 05 Aug 2017 12:45:47 +0000</pubDate>
+				<category><![CDATA[Portfolio]]></category>
+		<category><![CDATA[Ragam Warna]]></category>
+		<guid isPermaLink="false">https://demo.themefreesia.com/idyllic/?p=1875</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat&#8230; ]]></description>
+										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Sarang Walet Merah</title>
+		<link>/portfolio-sarang-walet-merah/</link>
+		
+		<dc:creator><![CDATA[Syamsul Alam]]></dc:creator>
+		<pubDate>Sat, 05 Aug 2017 12:44:02 +0000</pubDate>
+				<category><![CDATA[Portfolio]]></category>
+		<category><![CDATA[Ragam Warna]]></category>
+		<guid isPermaLink="false">https://demo.themefreesia.com/idyllic/?p=1873</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat&#8230; ]]></description>
+										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Sarang Walet Hitam</title>
+		<link>/portfolio-sarang-walet-hitam/</link>
+		
+		<dc:creator><![CDATA[Syamsul Alam]]></dc:creator>
+		<pubDate>Sat, 05 Aug 2017 12:40:28 +0000</pubDate>
+				<category><![CDATA[Portfolio]]></category>
+		<category><![CDATA[Ragam Warna]]></category>
+		<guid isPermaLink="false">https://demo.themefreesia.com/idyllic/?p=1869</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat&#8230; ]]></description>
+										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
